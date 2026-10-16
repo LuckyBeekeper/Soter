@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1194-add-backend-support-for-listing-packages-by",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1194-add-backend-support-for-listing-packages-by": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1194-add-backend-support-for-listing-packages-by",
+    "origin"
+  ]
+}
